@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+
+.externa{
+    height: 400px;
+    display: flex;
+    border: 5px solid yellow;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.caixa{
+    background-color: crimson;
+    border: 2px solid white;
+    margin: 5px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+}
